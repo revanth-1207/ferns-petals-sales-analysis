@@ -34,10 +34,12 @@ This project showcases a dynamic Excel dashboard analyzing sales for a fictional
 - Sales Pattern Interpretation
 
 ## Files Included
-- Ferns-and-Petals-Dashboard.xlsx – Main Excel file  
+- ferns-and-petals-dashboard.xlsb – Main Excel file 
+- customers.csv 
+- orders.csv
+- products.csv
 - Screenshot.png – Dashboard image  
-- README.md – Project documentation  
-- Ferns_and_Petals_Summary.pdf – Detailed project summary
+- README.md – Project documentation
 
 ## Note
 This is a learning project using dummy data for skill demonstration purposes.
